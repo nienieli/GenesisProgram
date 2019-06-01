@@ -1,13 +1,13 @@
 /** Blue	#3072e0
  **************************************************************** **/
 	::selection {
-		background: #3072e0;
+		background: #0B64A0;
 	}
 	::-moz-selection {
-		background: #3072e0; /* Firefox */
+		background: #0B64A0; /* Firefox */
 	}
 	::-webkit-selection {
-		background: #3072e0; /* Safari */
+		background: #0B64A0; /* Safari */
 	}
 
 

@@ -2109,7 +2109,7 @@
 
 							jQuery('#portfolio_filter>li>a').bind("click", function(e){
 								e.preventDefault();
-
+								console.log('ALLO');
 								jQuery('#portfolio_filter>li.active').removeClass('active');
 								jQuery(this).parent('li').addClass('active');
 
@@ -2255,7 +2255,7 @@
 
 								jQuery('#blog_filter>li.active').removeClass('active');
 								jQuery(this).parent('li').addClass('active');
-
+								console.log('ALLOO2');
 								var selector = jQuery(this).attr('data-filter');
 								_container.isotope({
 									filter: selector,

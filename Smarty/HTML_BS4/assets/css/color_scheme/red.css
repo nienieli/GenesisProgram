@@ -1,13 +1,13 @@
 /** Red	#A94545
  **************************************************************** **/
 	::selection {
-		background: #A94545;
+		background: #D61A3B  ;
 	}
 	::-moz-selection {
-		background: #A94545; /* Firefox */
+		background: #BE1126  ; /* Firefox */
 	}
 	::-webkit-selection {
-		background: #A94545; /* Safari */
+		background: #C7142E  ; /* Safari */
 	}
 
 
